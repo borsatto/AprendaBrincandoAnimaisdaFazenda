@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="idioma_width">90dp</dimen>
+	<dimen name="idioma_height">90dp</dimen>
+	<dimen name="toast_size">180dp</dimen>
+	<dimen name="margin_side">15dp</dimen>
+	<dimen name="margin_top">30dp</dimen>
+	<dimen name="ic_size">100dp</dimen>
+</resources>
